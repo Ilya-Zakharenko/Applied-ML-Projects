@@ -1,2 +1,2 @@
 # Applied-ML-Projects
-Applied Machine Learning projects: Fraud Detection, Anomaly Detection, Ranking, Marketing Analytics, Causal Inference and other domain-specific ML tasks.
+Applied and domain-specific Machine Learning projects including Fraud Detection, Risk Modeling, Marketing Mix Modeling, Causal ML, Ranking systems and other real-world ML applications.
